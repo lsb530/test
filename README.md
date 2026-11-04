@@ -1,4 +1,4 @@
 ## Github Practice Repo
 ---
-- Push & Pullaf
-- Pull Requestadfadf
+- Push & Pull
+- Pull Request
